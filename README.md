@@ -1,5 +1,5 @@
 # Independent Project
-**Farming To Do list Manager!
+**Farming To Do list Manager**!
 
 Welcome to the Farming To-Do List Manager GitHub repository! This project is a simple to-do list manager tailored for farmers to keep track of tasks and activities related to their farming operations. Whether you're a seasoned farmer or just getting started, this tool can help you stay organized and efficient.
 
